@@ -7,9 +7,16 @@ namespace CSharpFund_Project_RockPaperScissors_Game
     {
         static void Main(string[] args)
         {
+            ConsoleColor background = Console.BackgroundColor;
+            ConsoleColor foreground = Console.ForegroundColor;
+
+
+
             const string Rock = "Rock";
             const string Paper = "Paper";
             const string Scissors = "Scissors";
+
+            Console.ForegroundColor = ConsoleColor.Green;
 
             Console.Write("Choose [r]ock, [p]aper or [s]cissors: ");
             string playerMove = Console.ReadLine();
@@ -19,17 +26,21 @@ namespace CSharpFund_Project_RockPaperScissors_Game
                 if (playerMove == "r" || playerMove == "rock")
                 {
                     playerMove = Rock;
+                    Console.ForegroundColor = ConsoleColor.DarkGreen;
                 }
                 else if (playerMove == "p" || playerMove == "paper")
                 {
                     playerMove = Paper;
+                    Console.ForegroundColor = ConsoleColor.Magenta;
                 }
                 else if (playerMove == "s" || playerMove == "scissors")
                 {
+                    Console.ForegroundColor = ConsoleColor.DarkYellow;
                     playerMove = Scissors;
                 }
                 else
                 {
+                    Console.ForegroundColor = ConsoleColor.DarkMagenta;
                     Console.WriteLine("Invalid input. Try Again...");
                     return;
                 }
@@ -54,8 +65,11 @@ namespace CSharpFund_Project_RockPaperScissors_Game
                         Console.WriteLine("Invalid input. Try Again...");
                         return;
                 }
+                
+                Console.WriteLine($"Computer lucky number: {computerMove}.");
 
-                Console.WriteLine($"The computer choose {computerMove}.");
+                int computerScore = 0;
+                int playerScore = 0;
 
                 if (playerMove == computerMove)
                 {
@@ -64,27 +78,44 @@ namespace CSharpFund_Project_RockPaperScissors_Game
                 else if (playerMove == "Rock" && computerMove == "Scissors")
                 {
                     Console.WriteLine("Player wins!");
+                    playerScore++;
                 }
                 else if (playerMove == "Rock" && computerMove == "Paper")
                 {
                     Console.WriteLine("Computer wins!");
+                    computerScore++;
                 }
                 else if (playerMove == "Paper" && computerMove == "Rock")
                 {
                     Console.WriteLine("Player wins!");
+                    playerScore++;
                 }
                 else if (playerMove == "Paper" && computerMove == "Scissors")
                 {
                     Console.WriteLine("Computer wins!");
+                    computerScore++;
                 }
                 else if (playerMove == "Scissors" && computerMove == "Paper")
                 {
                     Console.WriteLine("Player wins!");
+                    playerScore++;
                 }
                 else if (playerMove == "Scissors" && computerMove == "Rock")
                 {
                     Console.WriteLine("Computer wins!");
+                    computerScore++;
                 }
+                Console.WriteLine();
+
+                Console.WriteLine($@"=============Score Board=============
+| Computer score: |  Player score:  |
+|                 |                 |
+|        {computerScore}        |        {playerScore}        |  
+|                 |                 |
+|                 |                 |
+|_________________|_________________|");
+
+                Console.WriteLine();
                 Console.WriteLine();
 
                 Console.WriteLine("Would you like to play again?");
