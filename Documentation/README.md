@@ -33,3 +33,6 @@ The player choose between these 3 options:
   * ***scissors*** or ***p*** option;
   
 The computer ***choose randomly*** an option.
+
+## Solution
+
