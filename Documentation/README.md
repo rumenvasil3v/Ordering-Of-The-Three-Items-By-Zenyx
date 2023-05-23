@@ -8,6 +8,6 @@
 *Also anyone can add something new if you would like.*
 
 ## Little introduction about Rock-Paper-Scissors(also known Roshambo)
-Roshambo is really simple and fun game, which you and your friend can play
-if you argue about something minor.**Also It's the _perfect_ game to kill 
+**Roshambo is really simple and fun game, which you and your friend can play
+if you argue about something minor.Also It's the _perfect_ game to kill 
 time when you are bored.**
