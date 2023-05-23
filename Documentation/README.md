@@ -54,4 +54,8 @@ For the project I used **.NET Technology** and **.NET class libraries**, which w
 
 ### Screenshots of the Console Application
 
+![image](https://github.com/rumenvasil3v/Ordering-Of-The-Three-Items-By-Zenyx/assets/133911957/e7a9208b-60d4-4309-8640-40b158e79504)
+![image](https://github.com/rumenvasil3v/Ordering-Of-The-Three-Items-By-Zenyx/assets/133911957/6df8743d-f327-4031-a500-29939a522075)
+![image](https://github.com/rumenvasil3v/Ordering-Of-The-Three-Items-By-Zenyx/assets/133911957/7fb00674-6c84-4773-acf8-7d0a8bf51049)
+
 
