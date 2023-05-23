@@ -39,11 +39,15 @@ The computer ***choose randomly*** an option.
 The way. which I find a solution to this projcet is with If-else Statements(checks). I made a constant variables for the play and with them
 i made checks what option to choose. Also did that for the computer, but the difference is that the option is chosen randomly. When they choose option the checks I made enter the game. It depends what is the option of the player and the computer,***e.g. player option rock (or r) and computer option scissors (or s). Player wins!***. If the player wants to play again, the user should enter **y[es] or n[o]**.
 
-### Used technologies and libraries
+### Used technologies and Libraries
 For the project I used **.NET Technology** and **.NET class libraries**, which with I make simple console application with class ***Program***.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rumenvasil3v/Ordering-Of-The-Three-Items-By-Zenyx/assets/133911957/839118ae-9f52-4bbe-9d2c-aeb49b2bd041">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/rumenvasil3v/Ordering-Of-The-Three-Items-By-Zenyx/assets/133911957/839118ae-9f52-4bbe-9d2c-aeb49b2bd041">
-  <img alt="Rock-Paper-Scissors" width = "540px" src="https://github.com/rumenvasil3v/Ordering-Of-The-Three-Items-By-Zenyx/assets/133911957/839118ae-9f52-4bbe-9d2c-aeb49b2bd041">
-</picture>
+![Екранна снимка 2023-05-23 221004](https://github.com/rumenvasil3v/Ordering-Of-The-Three-Items-By-Zenyx/assets/133911957/3e7bec9b-1298-4706-ae4a-3291ccb5edc3)
+
+### Possible situations
+
+![image](https://github.com/rumenvasil3v/Ordering-Of-The-Three-Items-By-Zenyx/assets/133911957/5a97c84c-231b-4a57-8246-398c52816a4b)
+
+### Link To The Source Code
+
+[Source Code](RokcPaperScissors-Game.cs)
