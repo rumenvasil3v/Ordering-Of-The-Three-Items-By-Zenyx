@@ -129,6 +129,7 @@ namespace CSharpFund_Project_RockPaperScissors_Game
                 }
                 else if (playerMove == "n" || playerMove == "no")
                 {
+                    Console.WriteLine();
                     Console.WriteLine("Bye bye! See ya!");
                     continue;
                 }
