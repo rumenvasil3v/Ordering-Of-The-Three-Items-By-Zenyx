@@ -16,3 +16,9 @@ Here are the "brainkilling" rules:
 >1. Rock beats scissors, scissors beat paper and paper beats rock.
 >2. The time you have to unleash the _"superpower"_ is when the two players count off that order: "rock, paper, scissors 3, 2, 1..."
 >3. ***Enjoy whole the time to pass the time!!!***
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rumenvasil3v/Ordering-Of-The-Three-Items-By-Zenyx/assets/133911957/839118ae-9f52-4bbe-9d2c-aeb49b2bd041">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/rumenvasil3v/Ordering-Of-The-Three-Items-By-Zenyx/assets/133911957/839118ae-9f52-4bbe-9d2c-aeb49b2bd041">
+  <img alt="Rock-Paper-Scissors" width = "540px" src="https://github.com/rumenvasil3v/Ordering-Of-The-Three-Items-By-Zenyx/assets/133911957/839118ae-9f52-4bbe-9d2c-aeb49b2bd041">
+</picture>
