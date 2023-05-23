@@ -22,3 +22,14 @@ Here are the "brainkilling" rules:
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/rumenvasil3v/Ordering-Of-The-Three-Items-By-Zenyx/assets/133911957/839118ae-9f52-4bbe-9d2c-aeb49b2bd041">
   <img alt="Rock-Paper-Scissors" width = "540px" src="https://github.com/rumenvasil3v/Ordering-Of-The-Three-Items-By-Zenyx/assets/133911957/839118ae-9f52-4bbe-9d2c-aeb49b2bd041">
 </picture>
+
+Winner is whose choice beats the choice of his opponent. If both players choose the same options(e.g. **rock**) the game outcome is "draw".
+
+## Input and Output
+The player choose between these 3 options:
+
+  * ***rock*** or ***r*** option;
+  * ***paper*** or ***p*** option;
+  * ***scissors*** or ***p*** option;
+  
+The computer ***choose randomly*** an option.
