@@ -58,4 +58,8 @@ For the project I used **.NET Technology** and **.NET class libraries**, which w
 ![image](https://github.com/rumenvasil3v/Ordering-Of-The-Three-Items-By-Zenyx/assets/133911957/6df8743d-f327-4031-a500-29939a522075)
 ![image](https://github.com/rumenvasil3v/Ordering-Of-The-Three-Items-By-Zenyx/assets/133911957/7fb00674-6c84-4773-acf8-7d0a8bf51049)
 
+### Live Demo
 
+You can try the game directly in your Web browser here:
+
+[<image alt = "Player Button" src = "https://replit.com/@rumenvasil3v/Rock-Paper-Scissors-Game-By-Rumen#Main.cs"/>](https://github.com/rumenvasil3v/Ordering-Of-The-Three-Items-By-Zenyx/assets/133911957/cdc3597f-ee34-4d32-9f29-491951cb9029)
