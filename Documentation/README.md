@@ -39,3 +39,5 @@ The computer ***choose randomly*** an option.
 The way. which I find a solution to this projcet is with If-else Statements(checks). I made a constant variables for the play and with them
 i made checks what option to choose. Also did that for the computer, but the difference is that the option is chosen randomly. When they choose option the checks I made enter the game. It depends what is the option of the player and the computer,***e.g. player option rock (or r) and computer option scissors (or s). Player wins!***. If the player wants to play again, the user should enter **y[es] or n[o]**.
 
+### Used technologies and libraries
+For the project I used **.NET Technology** and **.NET class libraries**, which with I make simple console application
